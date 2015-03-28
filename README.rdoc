@@ -1,7 +1,7 @@
 == README
 Creating a reddit like forum for documentation while coding
 
-*March 27 added:
+*March 27 added: (Devise gem)
 	
 	*- User creation
 	
